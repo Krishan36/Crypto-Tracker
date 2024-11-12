@@ -4,5 +4,7 @@ This version of the report refreshes every hour due to limitations with the "Pub
 
 For faster updates, I also have another version of this report connected through Direct Lake, which refreshes every minute. However, this version is not available for public sharing.
 
-Restricted Access
-The Power BI files, Fabric Notebook scripts, and SQL queries in this repository are restricted and not available for public access. If you would like to request access, please reach out via LinkedIn.
+## Restricted Access
+
+The Power BI files, Fabric Notebook scripts, and SQL queries in this repository are restricted and not available for public access. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
+
