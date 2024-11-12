@@ -6,5 +6,5 @@ For faster updates, I also have another version of this report connected through
 
 ## Restricted Access
 
-The Power BI files, Fabric Notebook scripts, and SQL queries in this repository are restricted and not available for public access. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
+Power BI files, Fabric Notebook scripts, and SQL queries in this repository are restricted and not available for public access. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
 
