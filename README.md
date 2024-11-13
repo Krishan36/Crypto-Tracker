@@ -11,13 +11,13 @@ For faster updates, I also have another version of this report connected through
 
 ## Key Features
 
-- **Candlestick Chart**: See price movements and trends with native Power BI visuals.
+- **Candlestick Chart**:  Created using Power BI’s native visuals (Clustered Line & Column chart + Error Bar), essential for understanding price fluctuations and market trends.
 
-- **Dynamic Timeframes**: Toggle across time intervals to explore crypto performance over different periods.
+- **Dynamic Timeframes**: Toggle across various time intervals to explore crypto performance over different periods.
   
-- **Light/Dark Mode**: Personalize your experience with light and dark themes.
+- **Light/Dark Mode**: Switch between light and dark modes for a customized viewing experience.
   
-- **Animated Text**: SVG animations create a lively, interactive interface.
+- **Animated Text**: Using Power BI’s native SVG capabilities, I added animated text for a more dynamic dashboard experience.
   
 - **Guided Tour**: Get a quick walkthrough of dashboard features for a smooth experience.
   
