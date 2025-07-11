@@ -4,10 +4,6 @@
 To view the **Live Crypto Tracker** in **Power BI**, please click the link below: 
 [Crypto Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTRmMDE0MmMtNGVkNi00ZWQ2LTljY2EtNjViMmVmZTBmMjMzIiwidCI6IjA0NjZlNDc4LWQ5MjMtNDliOS1hZGYzLWRiYzI0MTVkOGEwZiJ9).
 
-This version of the report refreshes every hour due to limitations with the "Publish to Web" feature in Power BI. You can read more about these limitations [here](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web#considerations-and-limitations).
-
-For faster updates, I also have another version of this report connected through Direct Lake, which refreshes every minute. However, this version is not available for public sharing.
-
 ## Key Features
 
 - **Candlestick Chart**:  Created using Power BI’s native visuals (Clustered Line & Column chart + Error Bar), essential for understanding price fluctuations and market trends.
