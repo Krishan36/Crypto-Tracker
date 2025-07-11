@@ -16,4 +16,4 @@ To view the **Live Crypto Tracker** in **Power BI**, please click the link below
   
 - **Guided Tour**: Get a quick walkthrough of dashboard features for a smooth experience.
   
-- **Sleek Interface**: Professional, user-friendly design for fast insights.
+- **Sleek Interface**: Professional, user-friendly design for clear insights.
