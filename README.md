@@ -1,5 +1,4 @@
 # Live Crypto Tracker
-This dashboard was developed by **Krishan Patel**.
 
 ## Dashboard Access
 To view the **Live Crypto Tracker** in **Power BI**, please click the link below: 
@@ -22,8 +21,3 @@ For faster updates, I also have another version of this report connected through
 - **Guided Tour**: Get a quick walkthrough of dashboard features for a smooth experience.
   
 - **Sleek Interface**: Professional, user-friendly design for fast insights.
-
-  
-## Intellectual Property Notice
-Please note that some Power BI files, Fabric Notebook scripts, and SQL queries associated with this project are not included in the repository to protect the intellectual property. If you would like to request access, please reach out via [LinkedIn](https://www.linkedin.com/in/krishanpatelpbi/).
-
