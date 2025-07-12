@@ -1,7 +1,7 @@
 # Live Crypto Tracker
 
 ## Dashboard
-To view the **Live Crypto Tracker** in **Power BI**, please click this link: 
+Please click here to view the **Live Crypto Tracker** in **Power BI**:
 [Crypto Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTRmMDE0MmMtNGVkNi00ZWQ2LTljY2EtNjViMmVmZTBmMjMzIiwidCI6IjA0NjZlNDc4LWQ5MjMtNDliOS1hZGYzLWRiYzI0MTVkOGEwZiJ9).
 
 ## Key Features
