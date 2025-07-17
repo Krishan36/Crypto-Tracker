@@ -5,7 +5,7 @@ Please click here to view the **Live Crypto Tracker** in **Power BI**:
 [Crypto Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiMTRmMDE0MmMtNGVkNi00ZWQ2LTljY2EtNjViMmVmZTBmMjMzIiwidCI6IjA0NjZlNDc4LWQ5MjMtNDliOS1hZGYzLWRiYzI0MTVkOGEwZiJ9).
 
 ## Purpose
-This dashboard has been created for educational purposes, demonstrating data engineering capabilities with Microsoft Fabric and data visualisation skills using Power BI.
+This dashboard has been developed for educational purposes, demonstrating data engineering capabilities using Microsoft Fabric and data visualisation skills with Power BI.
 
 ## Data Source
 This dashboard runs on near real-time cryptocurrency data. Every hour, a Python script in a Microsoft Fabric Notebook pulls data from the Binance REST API and stores it in a Lakehouse, making it ready for analysis.
